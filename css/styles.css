@@ -1,0 +1,32 @@
+/*******************************Body styling*************************************/
+body {
+  background-color: #e1ddcb;
+  padding: 20px;
+}
+hr {
+  /* border-style: none none dotted none; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(128, 130, 131);
+  border-width: 10px;
+  height: 0px;
+  width: 5%;
+}
+td {
+  padding: 10px;
+}
+
+h1,
+h2 {
+  color: #a16a48;
+}
+
+img {
+  border-radius: 150px;
+}
+img:hover {
+  border-radius: 0%;
+}
+.about {
+  font-size: 23px;
+}
